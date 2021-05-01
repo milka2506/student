@@ -4,5 +4,5 @@
 4) composer install
 5) php artisan key:generate
 6) test in localhost with giving "/students" and "/studentdetails" 
-   eg: http://localhost/test/public/students
+   eg: http://localhost/student-master/public/students
 7) in header there is students and student marks modules are there
